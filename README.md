@@ -1,6 +1,6 @@
 # Google Gemini Clone
 
-A modern, high-performance clone of Google Gemini built with Vite, React, and the Gemini API. This project aims to recreate the functionality and interface of Google Gemini while leveraging cutting-edge web development technologies for a fast and responsive user experience.
+A modern, high-performance clone of Google Gemini built with #React+Vite, and the Gemini API. This project aims to recreate the functionality and interface of Google Gemini while leveraging cutting-edge web development technologies for a fast and responsive user experience.
 <img width="1440" alt="Screenshot 2024-05-30 at 12 28 42 PM" src="https://github.com/rushikesht307/Gemini-clone/assets/108972839/8a2a5885-ef08-4f7d-9fbd-9c231883f8cb">
 
 # Features
